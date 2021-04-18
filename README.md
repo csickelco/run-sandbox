@@ -31,4 +31,8 @@ Response fields:
 * hourly.snow.1h: snow volume in mm for last hour
 * hourly.weather.main: Group of weather parameters (Rain, Snow, Extreme etc.)
 * hourly.weather.description: Full weather conditions, see https://openweathermap.org/weather-conditions#Weather-Condition-Codes-2
- 
+
+# Sending Email
+https://stackoverflow.com/questions/50236117/scraping-ssl-certificate-verify-failed-error-for-http-en-wikipedia-org
+
+https://realpython.com/python-send-email/
