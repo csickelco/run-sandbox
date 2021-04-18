@@ -1,5 +1,5 @@
 # Setup
-1. git clone https://github.com/csickelco/run-sandbox.git
+1. git clone git@github.com:csickelco/run-sandbox.git
 
 # APIs
 
